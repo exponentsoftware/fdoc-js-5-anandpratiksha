@@ -1,0 +1,17 @@
+What is the difference between forEach, map, filter and reduce ? 
+-->.forEach(), is used to execute the same code on every element in an array but does not change the array 
+.map() executes the same code on every element in an array and returns a new array with the updated elements.
+.reduce() As the name already suggest reduce method of the array object is used to reduce the array to one single value.
+.filter() It takes an array and filters out unwanted elements.
+
+Explain these using your own words Explain the difference between function declaration and arrow function ?
+-->
+
+Explain the difference between find and findIndex ? 
+ -->
+
+If you like to filter out one object element in an array which method do you like to use: filter or find ?
+-->
+
+Explain Explain the difference of var, let and const when we declare a variable ?
+-->
